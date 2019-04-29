@@ -1,6 +1,6 @@
 # hidden-gems-movies
 
-Exploring movies of the IMDB dataset that have high ratings but low popularity
+A mini-project exploring movies of the IMDB dataset that have high ratings but low popularity
 
 ## Motivation
 As a movie lover, I am always on the lookout for high-quality independent movies. For this project, my goal is to find the “hidden gems” in the IMDB movie dataset. 
@@ -12,8 +12,8 @@ Insights from this study would be valuable for movie industry professionals for 
 ## Research Questions
 * What are the highly-rated but unpopular “hidden gems” titles from the IMDB movie dataset?
 * Among these movies, what proportion does each genre take up?
-  ** Is Romance indeed the most numerous category of these movies)?
-  ** What is the highest-rated, low-popularity Comedy title?
+  * Is Romance indeed the most numerous category of these movies?
+  * What is the highest-rated, low-popularity Comedy title?
 
 ## Findings
 
