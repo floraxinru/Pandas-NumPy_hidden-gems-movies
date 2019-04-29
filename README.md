@@ -25,3 +25,6 @@ I also found the proportion taken up by each genre, and the pie chart shows Dram
 A possible improvement would be to adjust the filter requirements so that more titles are included, as well as looking at tags in addition to genres of movies. 
 I am also interested in doing a more thorough analysis on a larger dataset, with more internaitonal titles.
  
+## Installation and Usage
+Download the .csv data files from the IMDB movie dataset, as well as requirements.txt.
+Install the requirements for this project using `pip install -r requirements.txt.` This will install the exact version of the libraries that I had when doing this project.
