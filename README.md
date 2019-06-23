@@ -1,19 +1,19 @@
 # hidden-gems-movies
 
-A mini-project exploring movies of the IMDB dataset that have high ratings but low popularity. Completed as part of the Python for Data Science MOOC on edx.
+A mini-project exploring movies of the MovieLens dataset that have high ratings but low popularity. Completed as part of the Python for Data Science MOOC on edx.
 
 Main tools used: 
 ##### Python, Pandas, NumPy, Matplotlib, JupyterNotebook
 
 ## Motivation
-As a movie lover, I am always on the lookout for high-quality independent movies. For this project, my goal is to find the “hidden gems” in the IMDB movie dataset. 
+As a movie lover, I am always on the lookout for high-quality independent movies. For this project, my goal is to find the “hidden gems” in the MovieLens dataset. 
 These are defined as movies with a low number of user ratings (which implies they are not well-known, likely because they weren’t released at large cinema chains and only reached a limited audience), but a high average rating. 
 Furthermore, I would also like to find out the proportion of each genre in these titles (using a pie chart) - my hypothesis is Romance movies will take up the largest proportion, but I would like to test that.
 
 Insights from this study would be valuable for movie industry professionals for finding good movie directors and small-scale productions to invest in, for film festival organizers and independent cinemas to expand their line-ups by-genre, and also for independent movie fans like me!
 
 ## Dataset
-The movielens dataset was provided by the MOOC instructors. It is publicly available for download at <http://grouplens.org/datasets/>.
+The movielens dataset was provided by the MOOC instructors. The dataset has six files, with a total size of 18.6 MB. It is publicly available for download at <http://grouplens.org/datasets/>.
 
 From the README file of the movielens dataset:
 
@@ -25,7 +25,7 @@ From the README file of the movielens dataset:
 
  
 ## Research Questions
-* What are the highly-rated but unpopular “hidden gems” titles from the IMDB movie dataset?
+* What are the highly-rated but unpopular “hidden gems” titles from this movie dataset?
 * Among these movies, what proportion does each genre take up?
   * Is Romance indeed the most numerous category of these movies?
 
@@ -38,5 +38,5 @@ A possible improvement would be to adjust the filter requirements so that more t
 I am also interested in doing a more thorough analysis on a larger dataset, with more internaitonal titles.
  
 ## Installation and Usage
-Download the .csv data files from the IMDB movie dataset, as well as requirements.txt.
+Download the .csv data files from the Movielens movie dataset, as well as requirements.txt.
 Install the requirements for this project using `pip install -r requirements.txt.` This will install the exact version of the libraries that I had when doing this project.
