@@ -1,6 +1,6 @@
 # hidden-gems-movies
 
-A mini-project exploring movies of the IMDB dataset that have high ratings but low popularity
+A mini-project exploring movies of the IMDB dataset that have high ratings but low popularity. Completed as part of the Python for Data Science MOOC on edx.
 
 Main tools used: 
 ##### Python, Pandas, NumPy, Matplotlib, JupyterNotebook
@@ -11,6 +11,18 @@ These are defined as movies with a low number of user ratings (which implies the
 Furthermore, I would also like to find out the proportion of each genre in these titles (using a pie chart) - my hypothesis is Romance movies will take up the largest proportion, but I would like to test that.
 
 Insights from this study would be valuable for movie industry professionals for finding good movie directors and small-scale productions to invest in, for film festival organizers and independent cinemas to expand their line-ups by-genre, and also for independent movie fans like me!
+
+## Dataset
+The movielens dataset was provided by the MOOC instructors. It is publicly available for download at <http://grouplens.org/datasets/>.
+
+From the README file of the movielens dataset:
+
+> This dataset (ml-20m) describes 5-star rating and free-text tagging activity from [MovieLens](http://movielens.org), a movie recommendation service. It contains 20000263 ratings and 465564 tag applications across 27278 movies. These data were created by 138493 users between January 09, 1995 and March 31, 2015. This dataset was generated on March 31, 2015, and updated on October 17, 2016 to update links.csv and add genome-* files.
+
+> Users were selected at random for inclusion. All selected users had rated at least 20 movies. No demographic information is included. Each user is represented by an id, and no other information is provided.
+
+> The data are contained in six files, `genome-scores.csv`, `genome-tags.csv`, `links.csv`, `movies.csv`, `ratings.csv` and `tags.csv`. More details about the contents and use of all these files follows.
+
  
 ## Research Questions
 * What are the highly-rated but unpopular “hidden gems” titles from the IMDB movie dataset?
