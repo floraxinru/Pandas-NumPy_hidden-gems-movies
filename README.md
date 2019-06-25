@@ -1,6 +1,6 @@
 # hidden-gems-movies
 
-A mini-project exploring movies of the MovieLens dataset that have high ratings but low popularity. Completed as part of the Python for Data Science MOOC on edx.
+A mini-project exploring movies of the MovieLens dataset that have high ratings but low popularity. Completed as part of the Python for Data Science MOOC on edx. My blog post on this project is here: http://www.xinrucheng.net/project-exploring-hidden-gems-movies/
 
 Main tools used: 
 ##### Python, Pandas, NumPy, Matplotlib, JupyterNotebook
