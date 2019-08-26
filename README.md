@@ -34,6 +34,8 @@ From the README file of the movielens dataset:
 The research questions I set out to explore where answered, since I found the 313 titles that are highly rated (mean rating less than 4.0) and are unpopular (number of ratings fewer than the mean number of ratings, 747). 
 I also found the proportion taken up by each genre, and the pie chart shows Drama and Comedy are the two genres with the most titles, with Romance coming third instead of first (see moviepie2.png).
 
+![Pie chart of indie movie genres]()
+
 A possible improvement would be to adjust the filter requirements so that more titles are included, as well as looking at tags in addition to genres of movies. 
 I am also interested in doing a more thorough analysis on a larger dataset, with more international titles. Since this dataset only includes reviews in English, up to 2015, it would be interesting to do a more thorough analysis on a larger, more recent dataset, preferably with more international titles. Perhaps there is a correlation between the most popular indie genre and the language of a movie or its country of origin?
  
